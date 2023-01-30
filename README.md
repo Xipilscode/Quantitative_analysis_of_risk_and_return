@@ -33,7 +33,7 @@ conda pip install jupyterlab
 ```python
 conda pip install pandas
 ```
-4.Open **crypto_arbitrage.ipynb** file in Jupyter notebook.  
+4.Open **Quantitative_analysis_of_risk_and_return** file in Jupyter notebook.  
   
 ---
 
